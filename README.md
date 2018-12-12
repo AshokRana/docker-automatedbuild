@@ -1,5 +1,4 @@
 # Node.js Hello World
-# test test test test
 
 Node.js Hello World on CentOS using [docker][]!
 
